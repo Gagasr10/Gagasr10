@@ -22,7 +22,7 @@
 | [Playwright TS Framework](https://github.com/Gagasr10/Playwright-test-automation-framework) | Playwright · TypeScript · Docker · GitHub Actions | [Allure Report](https://gagasr10.github.io/Playwright-test-automation-framework/) |
 | [REST Assured + Cucumber](https://github.com/Gagasr10/rest-assured-cucumber-api-framework) | Java · REST Assured · BDD · Allure | [Allure Report](https://gagasr10.github.io/rest-assured-cucumber-api-framework/) |
 | [Ananas Login Automation](https://github.com/Gagasr10/Ananas-login-automation) | Selenium · Java · Jenkins · ExtentReports | Real app — ananas.rs |
-| [practice-store](https://github.com/Gagasr10/practice-store) – Python · Playwright · pytest · GitHub Actions — e2e + API test suite for practicesoftwaretesting.com
+| [practice-store](https://github.com/Gagasr10/practice-store) | Python · Playwright · pytest · GitHub Actions — e2e + API test suite for practicesoftwaretesting.com | [Allure Report] 
 
 ---
 
