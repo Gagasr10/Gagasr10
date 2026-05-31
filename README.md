@@ -9,10 +9,9 @@
 
 ## 🤖 AI Testing
 
-| Project | Stack | What it tests |
-|---------|-------|---------------|
-| [AI Validation Framework](https://github.com/Gagasr10/ai-validation-framework) | Python · pytest · Claude API | AI model accuracy, performance, prompt stability, retry logic |
-[Allure Report](https://gagasr10.github.io/ai-validation-framework/)
+| Project | Stack | What it tests | Live Report |
+|---------|-------|---------------|-------------|
+| [AI Validation Framework](https://github.com/Gagasr10/ai-validation-framework) | Python · pytest · Claude API | AI model accuracy, performance, prompt stability, retry logic | [Allure Report](https://gagasr10.github.io/ai-validation-framework/) |
 
 
 ---
